@@ -22,9 +22,11 @@ Home opens with what needs you today: the urgent items first, then the rest to a
 ## How it treats your books
 
 - It runs on your own PC. Your sales, clients, prices and stock live in a file on that PC.
-- It is offline by default. Nothing from your books leaves your PC unless you switch on a feature that sends it, such as off-site backup to a cloud you choose, the optional AI assistant, sharing with your other laptops, or web search. WhatsApp order collection only reads orders in.
-- On its own it sends only a weekly version check and, once a licence key is in (not a trial), a daily licence check-in with no figures from your books. The app's About page lists each one, and Airplane mode blocks them all.
-- After every live read it checks its figures against your accounting software's own totals, and shows in one line on the Today list whether they match.
+- Nothing from your books leaves your PC unless you use a feature that sends it, such as off-site backup to a cloud you choose, the optional AI assistant, sharing with your other laptops, or web search. WhatsApp order collection only reads orders in.
+- On a paid plan or a trial the internet features stay shut until you switch them on. On the Free plan, installed for one user, they normally start on. You can shut them under Settings, Internet access. The WhatsApp message buttons are on for every plan; they only open a chat you send yourself.
+- Off-site backup runs only after you choose a folder or storage address, and stops when you remove it. Sharing runs only after you choose a folder and start it.
+- Apart from features you set up, it sends on its own only a weekly version check and, once a licence key is in (not a trial), a licence check-in: once a day, and every 10 minutes on the main PC or any PC not approved. None of these carries figures from your books. The app's About page describes the version check and the daily check-in, and Airplane mode blocks them all.
+- After every live read it checks its figures against your accounting software's own totals, and the Today list says in one line which match, which do not and which were not checked.
 
 ## Download and install
 
