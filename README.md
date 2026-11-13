@@ -17,7 +17,7 @@ Works with: Tally. More accounting software to follow.
 
 ## What you see
 
-Home opens with what needs you today: the urgent items first, then the rest to act on. Across the top: Money, Clients, Stock, Prices and, on Enterprise and above, Team. Each place is a set of cards. Once your books are read, each card is one figure in one sentence. Open any card and the page behind it is there.
+Home opens with what needs you today: the urgent items first, then the rest to act on. Across the top: Money, Clients, Inventory, Prices and, on Enterprise and above, Team. Each place is a set of cards. Once your books are read, each card is one figure in one sentence. Open any card and the page behind it is there.
 
 ## How it treats your books
 
