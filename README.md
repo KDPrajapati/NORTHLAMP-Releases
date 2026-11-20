@@ -13,7 +13,7 @@ NORTHLAMP is a 64-bit Windows app for the people who run a business. It reads th
 
 It never writes to your accounting software. Every request it sends there is a read, the same kind made when you print a report.
 
-Works with: Tally. More accounting software to follow.
+Reads the accounting software Indian businesses already run on, and the list keeps growing.
 
 ## What you see
 
